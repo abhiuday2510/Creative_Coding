@@ -10,7 +10,7 @@ This produces some unique design from solar flares
 ![](FLARE/flare.png)
 
 #### 3.ROSE
-It makes a beautiful red rose from scratch
+It has a beautiful red rose in motion
 ![](ROSE/Capture.PNG)
 
 #### 4.STARS
@@ -18,7 +18,7 @@ This code gives different patterns from interlinked stars as you move the cursor
 ![](STARS/stars.png)
 
 #### 5.VENOM
-This one creates a small bubble of the color of the pixel that is supposed to be there with a decreasing readius to produce some amaving result
+This one creates a small bubble of the color of the pixel that is supposed to be there with a decreasing readius to produce some amazing result
 ![](VENOM/venm.png)
 
 #### 6.WAVES
